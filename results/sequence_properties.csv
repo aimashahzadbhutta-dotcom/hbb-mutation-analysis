@@ -1,0 +1,6 @@
+Property,Reference,Mutant,Change
+Length_aa,147.0,147.0,0.0
+Molecular_weight_Da,15998.21,15968.22,-29.98
+Isoelectric_point_pI,6.74,7.13,0.38
+Charge_at_pH_7.4,-1.46,-0.46,1.0
+GRAVY,0.01,0.07,0.05

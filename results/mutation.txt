@@ -1,0 +1,17 @@
+Amino Acid at position 7 of healthy Beta Globin: E
+Healthy Beta Globin Amino Acid sequence from positions 4 to 10: LTPEEKS
+Number of different Amino Acids: 1
+Position of difference: 7
+Reference residue: E
+Mutant residue: V
+Reference Length: 147
+Mutant Length: 147Reference length is 147: PASS
+Overall validation status: PASS
+Mutant length is 147: PASS
+Overall validation status: PASS
+Only standard amino acids: PASS
+Overall validation status: PASS
+Exactly one difference: PASS
+Overall validation status: PASS
+Difference is E7V: PASS
+Overall validation status: PASS

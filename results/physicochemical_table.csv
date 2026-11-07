@@ -1,0 +1,8 @@
+Properties,Glutamic Acid(E),Valine(V)
+Side-chain character,"Acidic, Polar, Ionizable","Non-polar, Aliphatic"
+Hydrophilic/ Hydrophobic,Hydrophilic,Hydrophobic
+Side-chain Structure,Carboxylic acid group,Aliphatic isopropyl group
+Charge near physiological pH(~7.4),-1,0
+Side-chain pKa,4.1 - 4.3,Not ionizable
+Residue mass,129.12 Da,99.13 Da
+Kyte-Doolittle hydropathy,-3.5,4.2
